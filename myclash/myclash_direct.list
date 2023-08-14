@@ -3,3 +3,6 @@
 
 # 公司网络
 DOMAIN-KEYWORD,ibaiqiu
+
+#软件
+PROCESS-NAME,wgc.exe
