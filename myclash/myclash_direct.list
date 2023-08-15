@@ -6,3 +6,6 @@ DOMAIN-KEYWORD,ibaiqiu
 
 #软件
 PROCESS-NAME,wgc.exe
+
+#服务器
+IP-CIDR,110.42.132.31,no-resolve
