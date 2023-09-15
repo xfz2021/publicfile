@@ -9,3 +9,8 @@ DOMAIN-KEYWORD,mcmworldwide
 PROCESS-NAME,wgc.exe
 
 
+
+#网站
+#今日热榜
+DOMAIN-SUFFIX,tophub.today
+
