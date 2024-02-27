@@ -1,2 +1,6 @@
 # myclash\myclash_proxy.list
 # 个人配置代理网址
+
+#网站
+#9DM
+DOMAIN-SUFFIX,9dmsgame.com
